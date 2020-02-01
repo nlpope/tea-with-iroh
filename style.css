@@ -1,0 +1,42 @@
+body {
+  background-color: yellow;
+}
+
+.rounded-well {
+  border-radius: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+button {
+  background-color: transparent;
+}
+
+/* the below is not working. Need help finding out why 
+
+button:focus {
+  outline:none;
+}
+here, Im attempting to remove the blue outline from the iroh pic when clicked
+*/
+p {
+  font-style: Italic;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.quote {
+  height: auto;
+  font-size: 35px;
+}
+
+.author {
+  font-size: 20px;
+}
+
+#smaller-iroh {
+  width: 300px;
+}

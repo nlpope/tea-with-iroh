@@ -28,11 +28,13 @@ Clone the project - (https://github.com/nlpope/tea-with-iroh) -  and open up the
 
 ## Built With
 
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The web programming language used
+* [jQuery](https://developer.mozilla.org/en-US/docs/Glossary/jQuery) - The web programming language used
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - The web programming language used
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - The web programming language used
 
 ## Authors
 
-* **Noah Pope** - *JavaScript, HTML & CSS code*
+* **Noah Pope** - *jQuery, HTML & CSS code*
 * **Nickelodeon's Avatar the Last Airbender** - *Quotes* - (https://www.nick.com/shows/avatar)
 
 ## License

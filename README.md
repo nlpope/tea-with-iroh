@@ -1,6 +1,6 @@
 # Project Title
 
-A Tweetable Random Quote Generator
+Tea With Iroh - A Tweetable Random Quote Generator
 
 ## Getting Started
 

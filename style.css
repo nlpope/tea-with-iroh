@@ -8,10 +8,6 @@ body {
   margin-left: 100px;
 }
 
-button {
-  background-color: transparent;
-}
-
 /* the below is not working. Need help finding out why 
 
 button:focus {
@@ -40,3 +36,19 @@ h1 {
 #smaller-iroh {
   width: 300px;
 }
+
+.btn.newQuote {
+  outline: none;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+}
+
+.fixed-image {
+  position: fixed;
+  bottom: 40px;
+  left: 300px;
+  right: 300px;
+}
+
+/* media query */

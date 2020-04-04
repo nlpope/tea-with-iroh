@@ -51,4 +51,13 @@ h1 {
   right: 300px;
 }
 
+.iroh-image {
+  height: auto;
+}
+
 /* media query shrink iroh */
+@media (max-height: 700px) {
+  .iroh-image {
+    transform: scale(0.5);
+  }
+}

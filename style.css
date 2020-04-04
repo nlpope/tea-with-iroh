@@ -56,8 +56,8 @@ h1 {
 }
 
 /* media query shrink iroh */
-@media (max-height: 700px) {
+@media (max-height: 890px) {
   .iroh-image {
-    transform: scale(0.5);
+    transform: scale(0.4);
   }
 }

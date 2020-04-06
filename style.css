@@ -8,13 +8,6 @@ body {
   margin-left: 100px;
 }
 
-/* the below is not working. Need help finding out why 
-
-button:focus {
-  outline:none;
-}
-here, Im attempting to remove the blue outline from the iroh pic when clicked
-*/
 p {
   font-style: Italic;
   font-size: 20px;

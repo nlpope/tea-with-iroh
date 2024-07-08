@@ -39,7 +39,7 @@ Clone the project - (https://github.com/nlpope/tea-with-iroh) -  and open up the
 
 ## License
 
-Copyright (c) 2020 by Noah Pope (https://github.com/nlpope/tea-with-iroh)
+Copyright (c) 2017 by Noah Pope (https://github.com/nlpope/tea-with-iroh)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

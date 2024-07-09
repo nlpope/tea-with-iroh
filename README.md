@@ -34,8 +34,7 @@ Clone the project - (https://github.com/nlpope/tea-with-iroh) -  and open up the
 
 ## Authors
 
-* **Noah Pope** - *jQuery, HTML & CSS code*
-* **Nickelodeon's Avatar the Last Airbender** - *Quotes* - (https://www.nick.com/shows/avatar)
+* **Noah Pope**
 
 ## License
 
